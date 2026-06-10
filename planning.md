@@ -9,7 +9,7 @@
 
 ## Domain
 
-<!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+This RAG system serves as an unofficial survival guide for Baruch College (CUNY) students, covering the practical knowledge that doesn't appear in any official handbook — from navigating CUNYfirst registration and avoiding waitlist traps, to finding financial aid, picking professors, and making the most of campus life. The domain draws on official Baruch resources, student-generated reviews, and community advice to answer the questions students actually ask.
 
 ---
 
@@ -20,16 +20,16 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Ready, Set, Register! | Official registration guide and tips | https://www.baruch.cuny.edu/advisement/ready-set-register/ |
+| 2 | New Student Onboarding Guide | Comprehensive guide for incoming Baruch students | https://www.baruch.cuny.edu/new-student-programs/new-student-onboarding-guide/ |
+| 3 | First Year Course Scheduling | Course scheduling guidance for first-year students | https://www.baruch.cuny.edu/new-student-programs/first-year-student-orientation/first-year-course-scheduling/ |
+| 4 | Registrar FAQ | Frequently asked questions about registration, holds, and enrollment | https://enrollmentmanagement.baruch.cuny.edu/registrar/frequently-asked-questions/ |
+| 5 | CUNYfirst Registration How-To (PDF) | Step-by-step guide for registering via CUNYfirst | https://enrollmentmanagement.baruch.cuny.edu/wp-content/uploads/sites/18/2020/10/How-to-register.pdf |
+| 6 | Financial Aid Services | Overview of financial aid options and processes | https://enrollmentmanagement.baruch.cuny.edu/financial-aid-services/ |
+| 7 | Financial Aid Overview – Undergraduate Catalog | Detailed breakdown of grants, loans, and scholarships | https://baruch-undergraduate.catalog.cuny.edu/fees-expenses-and-financial-aid/financial-aid-and-award/financial-aid-brochure |
+| 8 | Student Clubs and Organizations | Directory and info on 120+ student clubs and campus life | https://studentaffairs.baruch.cuny.edu/studentlife/student-activities/student-clubs-organizations/ |
+| 9 | Baruch College – Rate My Professors (School Page) | Aggregate professor ratings and student reviews | https://www.ratemyprofessors.com/school/222 |
+| 10 | Search All Baruch Professors – Rate My Professors | Full searchable list of Baruch professor reviews | https://www.ratemyprofessors.com/search/professors/222?q=*&did=1019 |
 
 ---
 
